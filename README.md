@@ -10,6 +10,9 @@ Github: [JamesLJenks](https://github.com/JamesLJenks)<br />
 Repository: [Team-Profile-Generator](https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator)<br />
 This public repostitory helped me in constructing proper and professional syntax for my index and template js'. 
 
+##Visual
+
+[!Visual](Capture.PNG)
 ## License
 This project is licensed under:<br />
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
