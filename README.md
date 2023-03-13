@@ -8,7 +8,7 @@ This application allows the user to pratice using jest to run commands locally. 
 James L Jenks<br />
 Github: [JamesLJenks](https://github.com/JamesLJenks)<br />
 Repository: [Team-Profile-Generator](https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator)<br />
-This public repostitory helped me in structing proper and professional syntax for my index and template js'. 
+This public repostitory helped me in constructing proper and professional syntax for my index and template js'. 
 
 ## License
 This project is licensed under:<br />
